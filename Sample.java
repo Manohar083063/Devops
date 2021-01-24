@@ -1,5 +1,5 @@
 import java.lang.*;
-public class Devops
+public class Sample
 {
   public static void main(String args[])
   {
